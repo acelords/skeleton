@@ -32,7 +32,7 @@ or by buying products and merchandise at [Marketplace](https://store.acelords.sp
 
 This funding is used for maintaining the project and adding new features into Code Style plus other open-source repositories.
 
-> NB: Some proceeds will also go to support the creators listed under **Special Thanks** section. They have done an incredible job
+> NB: Some donations will also go to support the creators listed under **Special Thanks** section. They have done an incredible job
 > that needs to be rewarded as much as possible.
 
 
