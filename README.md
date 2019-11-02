@@ -13,6 +13,7 @@ Forms a good place to kickstart development instead of starting from scratch.
 Easier for swapping an entire dashboard template without affecting the logic
 - SASS
 - Vuetify v2
+- Tailwind
 - [Laravel Mix](https://laravel-mix.com/)
 - No migrations. Instead, a MySQl workbench file is provided
 
