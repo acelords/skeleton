@@ -32,6 +32,18 @@ or by buying products and merchandise at [Marketplace](https://store.acelords.sp
 
 This funding is used for maintaining the project and adding new features into Code Style plus other open-source repositories.
 
+> NB: Some proceeds will also go to support the creators listed under **Special Thanks** section. They have done an incredible job
+> that needs to be rewarded as much as possible.
+
+
+#### Special thanks
+During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
+- [Vuetify](https://vuetifyjs.com/en/) for the wonderful framework
+- [Core UI](https://coreui.io) for the wonderful vue admin dashboard
+
+Let us know your thoughts below. And good luck with development!
+
+
 ## Vuetify
 Vuetify is developed exactly according to Material Design spec. Every component is hand crafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
 
@@ -42,14 +54,6 @@ Vuex is a state management pattern + library for Vue.js applications. It serves 
 
 ## Laravel Mix
 Bundling is done by [Laravel Mix](https://laravel.com/docs/6.x/mix)
-
-
-#### Special thanks
-During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
-- [Vuetify](https://vuetifyjs.com/en/) for the wonderful framework
-- [Core UI](https://coreui.io) for the wonderful vue admin dashboard
-
-Let us know your thoughts below. And good luck with development!
 
 ## Documentation
 The documentation for the project is hosted at our [website](https://skeleton.acelords.space). 
