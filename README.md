@@ -5,6 +5,7 @@ Forms a good place to kickstart development instead of starting from scratch.
 > Made with Vue.js and Modular in design.
 
 ### In a nutshell
+- Dark and Light Themes
 - Laravel ^6
 - Vue ^2
 - Redis
