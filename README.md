@@ -16,6 +16,7 @@ Easier for swapping an entire dashboard template without affecting the logic
 - Vuetify v2
 - Tailwind
 - [Laravel Mix](https://laravel-mix.com/)
+- [Laravel Envoy](https://laravel.com/docs/master/envoy) (zero-downtime deployment into production)
 - No migrations. Instead, a MySQl workbench file is provided
 
 
