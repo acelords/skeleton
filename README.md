@@ -4,20 +4,19 @@ An AceLords skeleton project for kick-starting other projects.
 Forms a good place to kickstart development instead of starting from scratch.
 > Made with Vue.js and Modular in design.
 
-### In a nutshell
-- Dark and Light Themes
-- Laravel ^6
-- Vue ^2
+### In a Nutshell
+- [Laravel ^6](https://laravel.com/)
+- [Vue ^2](https://vuejs.org)
 - Redis
 - Passport
 - Separated concerns between logic and vue templates (presentation layer). 
 Easier for swapping an entire dashboard template without affecting the logic
 - SASS
-- Vuetify v2
-- Tailwind
-- [Laravel Mix](https://laravel-mix.com/)
+- [Vuetify v2](https://vuetifyjs.com/)
+- [Tailwind](https://tailwindcss.com/)
 - [Laravel Envoy](https://laravel.com/docs/master/envoy) (zero-downtime deployment into production)
 - No migrations. Instead, a MySQl workbench file is provided
+- SEO-ready
 
 
 ## Demo
