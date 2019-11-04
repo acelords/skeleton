@@ -8,7 +8,7 @@ Forms a good place to kickstart development instead of starting from scratch.
 - [Laravel ^6](https://laravel.com/)
 - [Vue ^2](https://vuejs.org)
 - Redis
-- Laravel Passport (API Authentication)
+- Laravel Passport (API Authentication -> OAUTH2)
 - Separated concerns between logic and vue templates (presentation layer). 
 Easier for swapping an entire dashboard template without affecting the logic
 - SASS
