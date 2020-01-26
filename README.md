@@ -17,20 +17,38 @@ Easier for swapping an entire dashboard template without affecting the logic
 - [Laravel Envoy](https://laravel.com/docs/master/envoy) (zero-downtime deployment into production)
 - No migrations. Instead, a MySQl workbench file is provided
 - SEO-ready
+- Login with either username, email, or phone number
+
+
+## Modules
+- **Blog** (posts, categories, tags, blog uploads)
+- **Emails** (Inbound and outbound emails)
+- **Settings** (redis, horizon, system configurations, domain settings, organization, policy pages, SEO, `.env` mgmt)
+- **SMS** (Nexmo, AfricasTalking, OTP)
+- **Users** (users, roles & permissions, manage accounts, notifications, login info, departments, account issues)
 
 
 ## Demo
 
 The demo will be up in the specified domain
 - [AceLords Website](https://skeleton.acelords.space)
+> Admin Login info: 
+>
+> Username: acelords
+>
+> Password: acelords
 
 ## Donating to the project
 If you've found this useful and would like to buy the maintainers a coffee (or a Tesla, we're not picky), feel free to do so.
 
 
 #### Crowdfunding
-It's also possible to support the project on [Patreon](https://www.patreon.com/acelords) 
-or by buying products and merchandise at [Marketplace](https://store.acelords.space).
+
+**DONATE:** If this project helped you or your business in any way and you feel like donating some change, you can always buy me a cup of coffee :)
+
+<a href="https://ko-fi.com/acelords" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0" border="0" alt="Buy Me a Coffee at ko-fi.com" /></a>
+
+Or by buying products and merchandise at [Marketplace](https://store.acelords.space).
 
 This funding is used for maintaining the project and adding new features into Code Style plus other open-source repositories.
 
