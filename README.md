@@ -70,11 +70,11 @@ Let us know your thoughts below. And good luck with development!
 
 ![Dashboard 3](https://github.com/acelords/skeleton/blob/master/screenshot3.png)
 
-![Dashboard 4](https://github.com/acelords/skeleton/blob/master/screenshot4.png)
+![Dashboard 4](https://github.com/acelords/skeleton/blob/master/screenshot4.jpg)
 
-![Dashboard 5](https://github.com/acelords/skeleton/blob/master/screenshot5.png)
+![Dashboard 5](https://github.com/acelords/skeleton/blob/master/screenshot5.jpg)
 
-![Dashboard 6](https://github.com/acelords/skeleton/blob/master/screenshot6.png)
+![Dashboard 6](https://github.com/acelords/skeleton/blob/master/screenshot6.jpg)
 
 ## Vuetify
 Vuetify is developed exactly according to Material Design spec. Every component is hand crafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
