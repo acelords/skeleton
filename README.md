@@ -1,4 +1,4 @@
-# AceLords Laravel Skeleton Project 
+# AceLords Laravel 5, 6 & 7 Skeleton Project 
 
 An AceLords skeleton project for kick-starting other projects. 
 Forms a good place to kickstart development instead of starting from scratch.
