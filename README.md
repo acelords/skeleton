@@ -31,7 +31,7 @@ Easier for swapping an entire dashboard template without affecting the logic
 ## Demo
 
 The demo will be up in the specified domain
-- [AceLords Website](https://skeleton.acelords.space)
+- [AceLords Website](https://skeleton.acelords.com)
 > Admin Login info: 
 >
 > Username: acelords
@@ -48,7 +48,7 @@ If you've found this useful and would like to buy the maintainers a coffee (or a
 
 <a href="https://ko-fi.com/acelords" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0" border="0" alt="Buy Me a Coffee at ko-fi.com" /></a>
 
-Or by buying products and merchandise at [Marketplace](https://store.acelords.space).
+Or by buying products and merchandise at [Marketplace](https://store.acelords.com).
 
 This funding is used for maintaining the project and adding new features into Code Style plus other open-source repositories.
 
@@ -88,7 +88,7 @@ Vuex is a state management pattern + library for Vue.js applications. It serves 
 Bundling is done by [Laravel Mix](https://laravel.com/docs/6.x/mix)
 
 ## Documentation
-The documentation for the project is hosted at our [website](https://skeleton.acelords.space). 
+The documentation for the project is hosted at our [website](https://skeleton.acelords.com). 
 > NB: Coming soon
 
 
@@ -351,21 +351,21 @@ We use Gitlab and/or Github Issues as the official bug tracker for the project. 
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://acelords.space) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](https://acelords.com) instead of opening an issue.
 
 ## Licensing
 
-- Copyright 2019 AceLords (https://www.acelords.space)
+- Copyright 2019 AceLords (https://www.acelords.com)
 
 ## Useful Links
 
-- [More products](https://store.acelords.space) from AceLords Store/Marketplace
+- [More products](https://store.acelords.com) from AceLords Store/Marketplace
 
 ##### Social Media
 
 Twitter: <https://twitter.com/AceLords>
 
-Facebook: <https://www.facebook.com/acelords.space>
+Facebook: <https://www.facebook.com/acelords.com>
 
 Instagram: <https://instagram.com/acelords>
 
