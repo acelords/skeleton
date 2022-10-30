@@ -365,8 +365,4 @@ If you have questions or need help integrating the product please [contact us](h
 
 Twitter: <https://twitter.com/AceLords>
 
-Facebook: <https://www.facebook.com/acelords.com>
-
-Instagram: <https://instagram.com/acelords>
-
 ![AceLords](https://github.com/acelords/skeleton/blob/master/AceLords_skeleton_brand_minilogo.png)
